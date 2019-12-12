@@ -1,0 +1,1 @@
+service-users-1.0-SNAPSHOT.jar in this folder runing well in container with front end on Nov 13th.
